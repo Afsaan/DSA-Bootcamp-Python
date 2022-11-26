@@ -1,1 +1,1 @@
-print("Peak Mountain")
+print("Peak Mountains")
